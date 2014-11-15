@@ -4,6 +4,6 @@ $(document).ready(function(){
             var column_num = parseInt( $(this).index() ) + 1;
             var row_num = parseInt( $(this).parent().index() )+1;    
  
-            $("#one th").text("X");   
+            $("#one1 th").text("X");   
         });
     });
