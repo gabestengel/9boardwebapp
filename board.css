@@ -147,19 +147,19 @@ p {
     background-color: #F5F5F5;
 }
 
-td{
+th{
     cursor:pointer;
     background: -moz-linear-gradient(top, #ffffff, #D1E3E9);
     background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#ffffff), to(#D1E3E9));
     text-align:center;
 }
  
-td:hover{
+th:hover{
      background: -moz-linear-gradient(top, #249ee4, #057cc0);
      background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#249ee4), to(#057cc0));
 }
  
-td:active{
+th:active{
     background: -moz-linear-gradient(top, #057cc0, #249ee4);
     background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#057cc0), to(#249ee4));
  }
